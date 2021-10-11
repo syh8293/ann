@@ -1,2 +1,2 @@
-# an1
+# an
 annotation 구약 주석 달기
